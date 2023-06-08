@@ -1,2 +1,2 @@
 # Pintrest-Clone
-Responsive Pintrest-Clone using Unsplash API
+Responsive Pintrest-Clone using HTML CSS and Vanilla JS integrated with Unsplash API.
